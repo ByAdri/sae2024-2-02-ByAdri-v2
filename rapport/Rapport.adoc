@@ -1,0 +1,66 @@
+= SAÉ 2.02 - Rapport sur les Algorithmes a corrigés
+:icons: font
+:numbered:
+:toc: left
+:toc-title: Sommaire
+:toclevels: 1
+:toc!:
+
+ifdef::env-github[]
+:toc:
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+:graduation-icon: :mortar_board:
+:cogs-icon: :writing_hand:
+:beginner: :arrow_right:
+:advanced: :arrow_upper_right:
+:expert: :arrow_up:
+:dollar: :dollar:
+:git: link:{giturl}[git]
+:us-icon: :us:
+:fr-icon: :fr:
+endif::[]
+
+= Auteurs
+
+=== Du sujet...
+- mailto:bruel@irit.fr[Jean-Michel Bruel]
+- Version: 2024.01 (BUT1 2024)
+//- Kata length: 12 hours
+- Durée :  18 heures (1 TD et 4 TP encadrés, 7 créneaux en autonomie)
+
+=== De la solution...
+
+* mailto:adrien.theophile@etu.univ-tlse2.fr[THEOPHILE Adrien]
+* TD group : 
+- [x] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+
+// == Objectives
+== Objectifs
+
+L'objectif de cette SAÉ (**S**ituation d'**A**pprentissage et d'**É**valuation) est d'approfondir la réflexion sur l'approche algorithmique des problèmes rencontrés pendant les phases de développement. (cf. link:docs/sae2.02.pdf[]).
+
+Plus précisément :
+
+  - Participer à un petit "concours" de codage
+  - Lire, comprendre et évaluer un code qui n'est pas le sien
+  - Comparer des algorithmes sur un critère précis
+  - Justifier de manière objective ses comparaisons et son classement
+
+// == Documents fournis
+== Description
+
+Cette SAÉ se déroule en 2 phases.
+
+=== Phase 1 : concours d'algorithme (20% seulement de la note)
+
+Vous allez devoir soumettre individuellement un algorithme qui résout un problème simple (niveau BUT S1) mais qui peut se régler avec plusieurs solutions différentes. 
+Vous avez la semaine 24 (encadrée, et questions sur Discord bienvenues pendant les séances libres) pour réaliser et soumettre votre (ou vos) solutions. 
+
+WARNING: Cette 1ère phase est **individuelle**.
